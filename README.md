@@ -1,0 +1,2 @@
+# repositorykrisna
+tugas data analytics
